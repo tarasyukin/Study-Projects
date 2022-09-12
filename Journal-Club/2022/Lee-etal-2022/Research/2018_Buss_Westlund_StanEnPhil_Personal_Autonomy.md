@@ -8,6 +8,7 @@ bibtex:
 
 ***
 
+```
 @InCollection{sep-personal-autonomy,
 	author       =	{Buss, Sarah and Westlund, Andrea},
 	title        =	{{Personal Autonomy}},
@@ -18,3 +19,4 @@ bibtex:
 	edition      =	{{S}pring 2018},
 	publisher    =	{Metaphysics Research Lab, Stanford University}
 }
+```

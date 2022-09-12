@@ -41,7 +41,7 @@ Literature was coded based on a principilism framework:
 
 Key assertions based on principilism.
 1. Cognition
-    - There is a preponderance of executive dysfunction, not always rising to level of dementia  
+    - There is a preponderance of executive dysfunction, not always rising to level of dementia [^ayers2016] [^ayers2013]
     - There is an associated with alcohol abuse/misuse [^gleason2015] - other substances not discussed
 1. Natural History 
     - there is a mortality risk associated with squalor, this has not been robustly quantified, one study suggests ~ 16 years of life lost 
@@ -79,3 +79,5 @@ From the opening intro and methodology there seems to be a lack of analysis of t
 [^p1]: I guess this study is not looking for causitive factors in either direction but it seems that the confounding variable between squalor and abuse will be a lack of social supports  
 [^p2]: This seems kind of a given that someone unable to take care of their own home would need to be cared for in supported accommodation. This however can be an argument against my point of social supports, as institutionalisation would imply that even with funded social supports, these patients were unable to return home.
 [^d1]: Cognitive Rehabilitation and Exposure/Sorting Therapy (CREST)
+[^ayers2013]: [Ayers CR, Wetherell JL, Schiehser D, Almklov E, Golshan S, Saxena S. Executive functioning in older adults with hoarding disorder. Int J Geriatr Psychiatry 2013;28(11):1175–81.](https://doi.org/10.1002/gps.3940)
+[^ayers2016]: [Ayers CR, Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Executive Functioning in Participants Over Age of 50 with Hoarding Disorder. Am J Geriatr Psychiatry 2016;24(5):342–9.](https://doi.org/10.1016/j.jagp.2015.10.009)

@@ -25,3 +25,10 @@ abstract = {Older people living in squalor present healthcare providers with a s
 	edition      =	{{S}pring 2018},
 	publisher    =	{Metaphysics Research Lab, Stanford University}
 }
+
+@phdthesis{mcdermott2007self,
+  title={Self neglect and squalor among older people: the ethics of intervention},
+  author={McDermott, Shannon Cumming},
+  year={2007},
+  school={UNSW Sydney}
+}

@@ -79,7 +79,7 @@ The most critical evidence (I feel) of harm associated with hoarding is a case s
 > - Signs of hypothermia were present in 14.8%, and Type II diabetes in 21.3%.
 > - Medications for heart disease (5.4%) or diabetes (7.1%) were rare.
 
-In this case series there is an apparent signal, suggesting a massive contribution from isolation and neglect of healthcare. 
+In this case series there is an apparent signal, suggesting a contribution from isolation and neglect of healthcare. The expectation would be that more than 5 and 7% percent of older people with medical commorbidities would be on some form of intervention, but that data isn't presented here. 
 
 Another study demonstrates an association of the severity of hoarding with functional disability [^ayers2013]
 
@@ -87,7 +87,7 @@ Another study demonstrates an association of the severity of hoarding with funct
 
 The authors present that case that such squalid patients have broad difficulties in interpersonal interaction with their carers. With carers and family finding it difficult to understand and or cope with their charges/loved-ones' behaviour. 
 
-Such behaviours can refusal of care and support, and paranoia. Lee et. al. also suggest an ethical quandry experienced by care workes in such situations:
+Such behaviours can be refusal of care and support, and paranoia. *Lee et. al. (2022)* also suggest an ethical quandry experienced by care workes in such situations:
 
 > [!Lee et. al. 2022] 
 > "Qualitative studies involving case workers revealed that they were frequently ethically conflicted when trying to initiate change..."
@@ -96,7 +96,7 @@ The finanacial healthcare burden of such patients has only a a single study pres
 
 This study found no significant difference in healthcare costs of such patients compared to age-matched controls in the year following referral and evaluation. This appears to represent to healthcare cost for *that year*. However this data is of limited value to the Australian setting given its origin in Texas in the years before the *Affordable Health Act* - just saying, not sure if that is even significant, but sure is fun to point out.
 
-Of interest to me is the study by *Wilbram et. al. (2008)* which is series of ten interviews of primary carers for a hoarding family member. This narrative interview series presents a number of superodinate themes:
+Of interest to me is the study by *Wilbram et. al. (2008)* which is a series of ten interviews of primary carers for a hoarding family member. This narrative interview series presents a number of superordinate themes:
 
 > [!Wilbram et. al. 2008]
 > - loss of normal family life
@@ -105,9 +105,7 @@ Of interest to me is the study by *Wilbram et. al. (2008)* which is series of te
 > - impact on relationships
 > - marginalization [^wilbram2008] 
 
-When we don't have - or can't have - robust data to support our conclusion, all we have is a narrative understanding of the human impact that this "disorder" presents to the patient and their family. 
-
-Even we don't find that these patients have a significant healthcare cost. These series of inteviews demonstrate not just disease but *suffering* [^hall2021][^loeser2000], and ultimately it is suffering that we are trained to treat. 
+When we don't have - or can't have - robust data to support our conclusion, all we have is a narrative understanding of the human impact that this "disorder" presents to the patient and their family. Even we don't find that these patients have a significant healthcare cost. These series of inteviews demonstrate not just disease but *suffering* [^hall2021][^loeser2000], and ultimately it is suffering that we are trained to treat. 
 
 %% what was the conclusion the researchers had come to at the end %%
 

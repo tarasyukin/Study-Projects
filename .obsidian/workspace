@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
+            "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
+                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
+                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md"
+                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "abad5a4c8d453f61",
   "lastOpenFiles": [
+    "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
     "Journal-Club/2022/Lee-etal-2022/Research/2018_Buss_Westlund_StanEnPhil_Personal_Autonomy.md"
   ]
 }

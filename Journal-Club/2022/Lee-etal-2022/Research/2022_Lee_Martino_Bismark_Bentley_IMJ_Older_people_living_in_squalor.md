@@ -54,7 +54,7 @@ Key assertions based on principilism.
 
 ## Comments and Extracts
 
-> It is estimated that 1 in 700 community-dwelling older people live in squalor. [^sowdon2012]
+> It is estimated that 1 in 700 community-dwelling older people live in squalor.[^sowdon2012]
 
 From the opening intro and methodology there seems to be a lack of analysis of the degree of social supports that patients have which *a priori* would have a significant impact on their ability to self-care.
 

@@ -76,6 +76,6 @@ From the opening intro and methodology there seems to be a lack of analysis of t
 
 [^sowdon2012]: Snowdon J, Halliday G, Banerjee S. *Severe Domestic Squalor* . Cambridge: Cambridge University Press; 2012.  
 [^gleason2015]: Gleason A, Lewis M, Lee SM, Macfarlane S. A preliminary investigation of domestic squalor in people with a history of alcohol misuse: neuropsychological pro fi le and hoarding behavior – an opportunistic observational study. Int Psychogeriatrics 2015; 27 : 1913 – 8.
-[p1]: I guess this study is not looking for causitive factors in either direction but it seems that the confounding variable between squalor and abuse will be a lack of social supports  
-[p2]: This seems kind of a given that someone unable to take care of their own home would need to be cared for in supported accommodation. This however can be an argument against my point of social supports, as institutionalisation would imply that even with funded social supports, these patients were unable to return home.
+[^p1]: I guess this study is not looking for causitive factors in either direction but it seems that the confounding variable between squalor and abuse will be a lack of social supports  
+[^p2]: This seems kind of a given that someone unable to take care of their own home would need to be cared for in supported accommodation. This however can be an argument against my point of social supports, as institutionalisation would imply that even with funded social supports, these patients were unable to return home.
 [^d1]: Cognitive Rehabilitation and Exposure/Sorting Therapy (CREST)

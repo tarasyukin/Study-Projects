@@ -1,13 +1,15 @@
 ---
 aliases:
 source:
+authors: darke, duflou
+year-pub: 2017
+tag: research
 ---
 
 # [Darke S, Duflou J. Characteristics, circumstances and pathology of sudden or unnatural deaths of cases with evidence of pathological hoarding. J Forensic Leg Med 2017;45:36–40.](https://www.sciencedirect.com/science/article/abs/pii/S1752928X16301548?via%3Dihub)
 
-[author:: darke, duflou]
-[year-pub:: 2017]
-
+> [!AIM]
+> The study aimed to determine the characteristics and circumstances of cases sudden or unnatural death with evidence of pathological hoarding, their major organ pathology and toxicology.
 
 ## Patients
 
@@ -51,10 +53,20 @@ some studies may not have a clear control population
 
 ## Outcome  
 
-A total of 61 [N:: 61]
+A total of 61 [N:: 61] patients were identified. An average age of 65.8 years at time of death, with comparison to life expectancy data leading to an average of 16.1 years of life lost.
+
+- 62.3% were male
+- 96.7% were single, and 95.1% lived alone
+- 4.9% were employed at the time of time
+- 36.1% were an inferred smoker  
+- 96.7% of deaths occurred at home
+  - narratively, in all cases there extensive hoarding through the home, this restricted acces and mobility by emergency services 
+- 75.4% had a cause of death consistent with a chronic underlying pathology  
+  - 44.3% in whom heart disease was the primary cause of death  
 
 %% 
 [O:: what was the raw results of the study]
+
 %%
 
 ## Conclusion  

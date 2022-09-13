@@ -1,6 +1,9 @@
 ---
 aliases:
 source:
+authors: Aus Bureau Stats
+year-pub: 2018
+tag: research
 ---
 
 # Disability, Ageing and Carers, Australia: Summary of Findings, 2015 & 2018

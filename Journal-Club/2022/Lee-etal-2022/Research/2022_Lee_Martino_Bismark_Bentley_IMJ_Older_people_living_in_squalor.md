@@ -140,7 +140,7 @@ From the opening intro and methodology there seems to be a lack of analysis of t
 [^wilbram2008]: [Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.](https://sciwheel.com/fulltext/doi/10.1348/014466507X240740)
 [^hall2021]: [Illness, Healing, and Other Terms That Can Be Confusing, from *sciencebasemedicine.org*](https://sciencebasedmedicine.org/illness-healing-and-other-terms-that-can-be-confusing/)
 [^loeser2000]: [Loeser JD. Pain and suffering. Clin J Pain 2000;16(2 Suppl):S2-6.](https://sciwheel.com/fulltext/doi/10.1097/00002508-200006001-00002)
-[shaw1006]: [Shaw T, Shah A. Squalor syndrome and psychogeriatric admissions. Int Psychogeriatr 1996;8(4):669–74.](https://sciwheel.com/fulltext/doi/10.1017/s1041610296002979)
+[^shaw1006]: [Shaw T, Shah A. Squalor syndrome and psychogeriatric admissions. Int Psychogeriatr 1996;8(4):669–74.](https://sciwheel.com/fulltext/doi/10.1017/s1041610296002979)
 
 ****
 

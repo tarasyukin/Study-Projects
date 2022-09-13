@@ -1,5 +1,8 @@
 ---
 aliases: Lee et. al. 2022
+authors: lee, martino, bismark, bentley
+year-pub: 2022
+tag: research, presentation
 ---
 
 # [Lee SM, Martino E, Bismark M, Bentley R. Evidence to guide ethical decision-making in the management of older people living in squalor: a narrative review. Intern Med J 2022;52(8):1304–12.](https://pubmed.ncbi.nlm.nih.gov/35762169/)
@@ -16,7 +19,10 @@ Included studies:
 Excluded studies:
 > Conference abstracts, case reports with *three or less participants*, expert opinions and review articles were excluded. The process of selection was performed by a single author (SML).
 
-%% Patients included, need to note number, exclusion criteria, how they were recruited, etc %%  
+%% 
+Patients included, need to note number, exclusion criteria, how they were recruited, etc 
+[P: search terms hoard*, diogenes, squalor, clutter, elder, older, self-neglect] 
+%%  
 
 Total studies included = 67 [N:: 67]
 
@@ -28,11 +34,18 @@ Literature was coded based on a principilism framework:
 3. Positive and Negative outcomes of intervention 
 4. Utilisation of resources by older people, impact on others, and justice
 
-%% some studies don't have an intervention, essentially what was being tested for %%
+%% 
+[I: narrative principilism examining cognition and decision-making, natural trajectory, interventions, resource use]
+some studies don't have an intervention, essentially what was being tested for
+%%
 
 ## Control  
 
-%% some studies may not have a clear control population %%
+%% 
+some studies may not have a clear control population
+[C:: no control to the healthy elder population was identified]
+
+%%
 
 ## Outcome  
 
@@ -55,7 +68,12 @@ Key assertions based on principilism.
     - Family and caregivers experience negative emotions, and family dysfunctions  (it is not stated if this is to a higher degree)  
     - Caregivers and volunteers require additional support as patients can be paranoid and demanding  
 
-%% what was the raw results of the study %%
+%% 
+[O:: higher rate of executive dysfunction and alcohol misuse]
+[O:: higher mortality risk, falls, elder abuse]
+[O:: minimal benefit from pyschiatric interventions, some harm-minimisation from cleaning and animal reproduction control]
+[O:: longer hospitalisation, and negative emotional/social strain from family and carers]
+what was the raw results of the study %%
 
 ## Conclusion  
 

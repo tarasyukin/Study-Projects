@@ -5,24 +5,57 @@ source:
 
 # [Darke S, Duflou J. Characteristics, circumstances and pathology of sudden or unnatural deaths of cases with evidence of pathological hoarding. J Forensic Leg Med 2017;45:36–40.](https://www.sciencedirect.com/science/article/abs/pii/S1752928X16301548?via%3Dihub)
 
+[author:: darke, duflou]
+[year-pub:: 2017]
+
 
 ## Patients
 
-All cases presenting to the Department of Forensic Medicine Sydney (DOFM) between 1 January 2001&#8212;31 September 2015 where
+"All cases presenting to the Department of Forensic Medicine Sydney (DOFM) between 1 January 2001&#8212;31 September 2015 where" there was compulsive hoarding noted on the autopsy file by the pathologist, police, or witnesses. (There is not indication how hoarding was verified or quantified.
 
-%% Patients included, need to note number, exclusion criteria, how they were recruited, etc %% 
+%%
+[P:: cases presenting to Department of Forensic Medicine Sydney, from 2001&#8212;2015, where hoarding was identified on the autopsy file]
+
+Patients included, need to note number, exclusion criteria, how they were recruited, etc 
+
+%% 
 
 ## Intervention 
 
-%% some studies don't have an intervention, essentially what was being tested for %%
+Key data extracted from cases included:
+- Cause of death as reported by the pathologist;
+  - including antecedent causes and other clinically significant factors
+- Age at death 
+- Social circumstances  
+- Internal autopsy findings 
+- Toxicology data from immunoassay, gas or high-performance liquid chromatography 
+  - primarily for commonly tested substances such as alcohol, opioids, cannabis, etc.
+
+%% 
+some studies don't have an intervention, essentially what was being tested for 
+[I:: key data extracted: cause of death, age, toxicology, internal autopsy findings, social circumstances]
+
+%%
 
 ## Control  
 
-%% some studies may not have a clear control population %%
+No formal controls were used. 
+Years of life lost were calculated base on life expenctancy data from the Australia Bureau of statistics for the year of the patient case, and sex.
+
+%% 
+some studies may not have a clear control population 
+
+[C:: no formal control, some comparison made to life expectancy data]
+%%
+
 
 ## Outcome  
 
-%% what was the raw results of the study %%
+A total of 61 [N:: 61]
+
+%% 
+[O:: what was the raw results of the study]
+%%
 
 ## Conclusion  
 

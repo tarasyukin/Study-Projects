@@ -1,5 +1,8 @@
 ---
 aliases:
+authors: mcdermott
+year-pub: 2007
+tag: research
 ---
 
 # Self neglect and squalor among older people: the ethics of intervention

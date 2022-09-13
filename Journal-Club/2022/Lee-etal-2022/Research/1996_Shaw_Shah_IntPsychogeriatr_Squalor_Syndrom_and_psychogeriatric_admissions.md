@@ -1,6 +1,9 @@
 ---
 aliases:
 source:
+authors: shaw, shah
+year-pub: 1996
+tag: research
 ---
 
 # Shaw T, Shah A. Squalor syndrome and psychogeriatric admissions. Int Psychogeriatr 1996;8(4):669–74.
@@ -23,7 +26,11 @@ This study examined a series of patients admitted to a pyschogeriatric unit, wit
 
 50% and 53% were over 75 years of age in the squalor and control groups.
 
-%% Patients included, need to note number, exclusion criteria, how they were recruited, etc %% 
+%% 
+Patients included, need to note number, exclusion criteria, how they were recruited, etc
+[P:: 16 patients were admitted to the psychogeriatric ward over a 40 -month period]
+
+%% 
 
 ## Intervention 
 
@@ -44,11 +51,17 @@ The principle measurements were:
 	- Home help
 	- Attendence to day centres 
 
-%% some studies don't have an intervention, essentially what was being tested for %%
+%% 
+some studies don't have an intervention, essentially what was being tested for
+[I:: key measurements with marital and living status, level of dependency at admission and discharge, length of admission, principle diagnosis, number of services utilised prior to admission]
+%%
 
 ## Control  
 
-%% some studies may not have a clear control population %%
+%% 
+[C:: 17 patients without squalor syndrom were selected for comparison]
+some studies may not have a clear control population 
+%%
 
 ## Outcome  
 
@@ -65,7 +78,12 @@ Non-significant differences were:
 5. 25% had depression, compared to 52%
 6. 44% of squalor patients had been legally detained, compared to 29% of controls
 
-%% what was the raw results of the study %%
+%% 
+what was the raw results of the study
+[O:: increased length of stay 140 days compared to 52]
+[O:: low use of prescription psychotropics, 0% compared to 29%]
+[O:: higher use of services, average 1.44 services compared to 0.65]
+%%
 
 ## Conclusion  
 

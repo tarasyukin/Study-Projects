@@ -121,6 +121,8 @@ From the opening intro and methodology there seems to be a lack of analysis of t
 > [!Lee et. al. 2022]
 > A crucial implication for clinical practice is, in seeking to support the principle of autonomy, the cognitive capacity of older people living in severe domestic squalor who have frontal executive dysfunction needs to be carefully considered. This understanding is critical given that those who decline to cooperate with assessments may be even more impaired. ^q-autonomy
 
+We always need more data, but before we can collect it we should also agree on some common terminology. *Diogenes* and *Squalor* syndrome seem to be readily used by psychiatrist and psychogeriatricians, there are relatively few studies here coming from the general medicine or geriatric medicine folds. 
+
 ***
 
 [^sowdon2012]: Snowdon J, Halliday G, Banerjee S. *Severe Domestic Squalor* . Cambridge: Cambridge University Press; 2012.  

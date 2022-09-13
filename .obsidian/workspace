@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
+            "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
+                "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
+                "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md"
+                "file": "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md"
               }
             }
           }
@@ -130,7 +130,12 @@
   },
   "active": "abad5a4c8d453f61",
   "lastOpenFiles": [
+    "Journal-Club/2022/Lee-etal-2022/Research/1996_Shaw_Shah_IntPsychogeriatr_Squalor_Syndrom_and_psychogeriatric_admissions.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2017_Darke_Duflou_JForensicLefMed_Pathology_sudden_death_with_evidence_of_hoarding.md",
+    "Journal-Club/2022/Lee-etal-2022/2022_Tarasyuk_GoFUslf_My_Ideal_squalor_Study.md",
     "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
-    "Journal-Club/2022/Lee-etal-2022/Research/2018_Buss_Westlund_StanEnPhil_Personal_Autonomy.md"
+    "Journal-Club/2022/Lee-etal-2022/Research/2018_Buss_Westlund_StanEnPhil_Personal_Autonomy.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2007_McDermott_UNSW_Squalor_Ethics_of_Intervention.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2018_Australian_Beareau_Satistics_Summary_Findings_Older_People.md"
   ]
 }

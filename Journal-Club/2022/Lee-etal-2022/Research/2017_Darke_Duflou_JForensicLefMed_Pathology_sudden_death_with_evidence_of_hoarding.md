@@ -8,6 +8,8 @@ source:
 
 ## Patients
 
+All cases presenting to the Department of Forensic Medicine Sydney (DOFM) between 1 January 2001&#8212;31 September 2015 where
+
 %% Patients included, need to note number, exclusion criteria, how they were recruited, etc %% 
 
 ## Intervention 

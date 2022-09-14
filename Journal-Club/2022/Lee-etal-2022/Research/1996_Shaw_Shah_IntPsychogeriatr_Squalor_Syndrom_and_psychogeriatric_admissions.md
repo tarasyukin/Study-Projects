@@ -59,13 +59,13 @@ some studies don't have an intervention, essentially what was being tested for
 ## Control  
 
 %% 
-[C:: 17 patients without squalor syndrom were selected for comparison]
+[C:: 17 patients without squalor syndrome were selected for comparison]
 some studies may not have a clear control population 
 %%
 
 ## Outcome  
 
-Significant differences between the control and squalor groups were:
+Significant differences between the control [N:: 17 controls] and squalor groups [N:: 16]were:
 1. Length of admission, patients with squalor syndrome having an average length of admission of 140 days, compared to 52  
 2. Use of prescribed psychotropic medications, 0% in squalor patients, compared to 29% in the control
 3. Receipt of services, patients with squalor syndrome received an average of 1.44 services, compared to 0.65 in the control group

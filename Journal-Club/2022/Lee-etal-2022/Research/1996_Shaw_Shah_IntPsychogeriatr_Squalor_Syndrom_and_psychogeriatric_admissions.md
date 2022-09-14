@@ -97,7 +97,7 @@ The lack of medication use is consistent with other studies, in particular *Dark
 
 In contrast to other data (being a single other study), this case-control trial suggests not only increased utilisation of services, but also discharge to a higher-dependency facility. Both of these would incur greater cost, however in *Franzini & Dyer (2008)* [^franzini2008] there was not only less cost to the healthcare system prior to referral of this population, and no significant difference in cost at one year. 
 
-[^franzini2008]: [Franzini L, Dyer CB. Healthcare costs and utilization of vulnerable elderly people reported to Adult Protective Services for self-neglect. J Am Geriatr Soc 2008;56(4):667–76.](https://sciwheel.com/work/#/items/1757436/detail?collection=702106)
+[^franzini2008]: [[2008_Franzini_Dyer_JAmGeriatrSoc_Healthcare_costs_of_vulnerable_elderly_people|Franzini L, Dyer CB. Healthcare costs and utilization of vulnerable elderly people reported to Adult Protective Services for self-neglect. J Am Geriatr Soc 2008;56(4):667–76.]]
 
 However, this is a *gross* mal-comparison, as the latter study had been conducted in different country with a different healthcare system, and was not of inpatients. 
 

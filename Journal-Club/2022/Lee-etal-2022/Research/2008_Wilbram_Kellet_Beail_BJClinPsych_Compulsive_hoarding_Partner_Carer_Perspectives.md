@@ -6,40 +6,65 @@ year-pub: 2008
 tag: research
 ---
 
-# [Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.]
+# [Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.](https://sciwheel.com/fulltext/doi/10.1348/014466507X240740)
 
+This interview based study sought to bring together carer and family perspectives of those with compulsive hoarding. This study was conducted before the introduction of *Hoarding Disorder* as a distinct clinical entity, although at a time when recognition of hoarding is not being exclusive to OCD was becoming more prominent in the literature.
 
 ## Patients
 
+Families were recruited through a program called *OCD Action*. Patients in question were not necessarily diagnosed with OCD/hoarding, some were included based on carer's descriptions of a hoarder household.
+
 %% 
-[P:: Patients included, need to note number, exclusion criteria, how they were recruited, etc]
+[P:: Participants self-reported to a support group and were included if there was a diagnosis of hoarding, or a description sufficiently convincing of hoarding behaviour]
+
+[N:: 10]
 
 %% 
 
 ## Intervention 
 
+Semi-structured interviews were conducted in participants homes and subjected to 8 *Interpretiv phenomenological analysis*.
+
 %% 
-[I:: some studies don't have an intervention, essentially what was being tested for]
+[I:: Semi-structured interviews and thematic analysis]
 
 %%
 
 ## Control  
 
 %% 
-[C:: some studies may not have a clear control population]
+[C:: ]
 
 %%
 
 ## Outcome  
 
+A number of themes were drawn from the interviews.
+- Loss of ‘normal’ family life
+- The need for understanding
+- Coping with the situation
+- Support and role division
+- Impact on relationships
+- Protective positive qualities
+- Marginalization
+
+
 %% 
-[O:: what was the raw results of the study]
+[O:: A number of common themes could be drawn from the interviews, in general there was distress a loss of 'normality', with a frustration at the lack of emotion and societal support, and the straining of relationship including those with the patient in question]
 
 %%
 
 ## Conclusion  
 
-%% what was the conclusion the researchers had come to at the end %%
+This study is of limited value in the assessment of hoarding behaviours among the elderly and squalid living situations.
+
+A common theme amidst the literature is one of the impaired function whether in terms of physical limitations that lead to self-neglect and hoarding-like behaviour, or where patients impose limits on themselves by hoarding; and with a distinct psychiatric syndrome of severe, almost debilitating, anxiety at the prospect of relinquishing obviously useless posessions.
+
+While it would be neat to extrapolate these carer experiences to carers of similar appearing patients, this would be unscientific. I would be happy to presume that carers of elderly residents with "squalor syndrome" suffer equally, it would be wrong to ascribe similar experience.
+
+%% 
+[comment:: this is unfortunately a psychiatry study that cannot be applied to "squalor syndrome"]
+what was the conclusion the researchers had come to at the end %%
 
 ***
 %% BIBTEX Data %%

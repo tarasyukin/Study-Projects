@@ -107,8 +107,13 @@ Given these limitations, although this study confirms some of our preconceptions
 %% 
 what was the conclusion the researchers had come to at the end
 [comment:: I don't think this study has added anything of value, unfortunately]
-
 %%
+
+> [!Hoarding Disorder]  
+> Hoarding disorder (HD) is a newly established psychiatric condition in the Diagnostic and Statistical Manual of Mental Disorders, Volume 5 (DSM-5; American Psychiatric Association, 2013). 
+> Formerly known as compulsive hoarding, HD was previously considered a subtype of obsessive – compulsive disorder (OCD; Calamari et al ., 1999; Calamari et al ., 2004) and was included as one of eight criteria for obsessive – compulsive personality disorder.
+
+It is thus important to note that publications before 2013 may be referring to hoarding as a subtype of OCD.
 
 ***
 %% BIBTEX Data %%

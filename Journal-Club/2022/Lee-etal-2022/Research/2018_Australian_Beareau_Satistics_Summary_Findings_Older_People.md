@@ -14,6 +14,15 @@ tag: research
 > [!Living Alone, 2015]
 > "Most older Australians (94.8%) were living in households in 2015, while one in twenty (5.2%) lived in cared accommodation such as nursing homes and aged care hostels. Over one-quarter (26.8%) of all older people lived alone."
 
+- 15.9% or 3.9 Million Australians were over 65 years of age in 2018
+- Most older people (95.3%) were living in households, with women twice as likely to be living alone as men.
+- Of all older pople, 35.4% had a profound or sever limitation, 40.1% had a mild limitation of everyday activities.
+- In terms of assistance, 38.0% of all older people needed activities with everyday living
+	- 22.5% with healthcare
+	- 20.0% with property maintenance
+	- 16.0% with household chores
+-
+
 ***
 
 ```

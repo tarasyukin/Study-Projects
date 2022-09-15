@@ -36,13 +36,11 @@ Literature was coded based on a principilism framework:
 
 %% 
 [I: narrative principilism examining cognition and decision-making, natural trajectory, interventions, resource use]
-some studies don't have an intervention, essentially what was being tested for
 %%
 
 ## Control  
 
 %% 
-some studies may not have a clear control population
 [C:: no control to the healthy elder population was identified]
 
 %%
@@ -54,7 +52,7 @@ Key assertions based on principilism.
     - There is a preponderance of executive dysfunction, not always rising to level of dementia [^ayers2016] [^ayers2013]
     - There is an associated with alcohol abuse/misuse [^gleason2015] - other substances not discussed
 1. Natural History 
-    - there is a mortality risk associated with squalor, this has not been robustly quantified, one study suggests ~ 16 years of life lost 
+    - there is a mortality risk associated with squalor, this has not been robustly quantified, one study suggests ~ 16 years of life lost[^darke2017]
     - there is a higher risk of falls, elder abuse [^p1], and institutionalisation [^p2] 
 1. Intervention 
     - CBT alone has minimal benefit, CBT with in-home support shows some improvement  
@@ -80,9 +78,11 @@ what was the raw results of the study %%
 ### Cognition in the Elderly living in Squalor 
 
 The authors conclude the patients found to be living in squalor should be cautiously approached to their decision making capacity as their evidence suggests that such patients have:
-1. Greater preponderence of executive dysfunction, however *not* meeting criteria for dementia  
+1. Greater preponderence of executive dysfunction, however *not* meeting criteria for dementia[^ayers2016]  
 2. Potentially have poor insight into the impact of their behaviours on their health and safety[^tolin2010], this study however is an interview series of patient families, which are an important source but does not provide convincing evidence for such patients lacking insight
 3. That [[2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor#^q-autonomy|"...autonomous decision-making capacity should be determined rather than assumed"]] (this quote being taken from the abstract).
+
+[^ayers2016]:[[2016_Ayers_Dozier_Wetherell_Twamley_Scheihser_AmJGeriatr_Exectutive_Function_Hoarding_Disorder|Ayers CR, Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Executive Functioning in Participants Over Age of 50 with Hoarding Disorder. Am J Geriatr Psychiatry 2016;24(5):342–9.]]
 
 ### Intervention is needed to reduce morbidity and mortality, and this may need to occur against the wishes of the older adult  
 
@@ -153,11 +153,11 @@ We always need more data, but before we can collect it we should also agree on s
 [^arluke2017]: [Arluke A, Patronek G, Lockwood R, Cardona A. Animal Hoarding. In: Maher J, Pierpoint H, Beirne P, editors. The palgrave international handbook of animal abuse studies. London: Palgrave Macmillan UK; 2017. p. 107–29.](DOI: 10.1057/978-1-137-43183-7_6)
 [^clarke1975]: [Clark AN, Mankikar GD, Gray I. Diogenes syndrome. A clinical study of gross neglect in old age. Lancet 1975;1(7903):366–8.](DOI: 10.1016/s0140-6736(75)91280-5)
 [^snowdon2011]: [Snowdon J, Halliday G. A study of severe domestic squalor: 173 cases referred to an old age psychiatry service. Int Psychogeriatr 2011;23(2):308–14.](https://sciwheel.com/fulltext/doi/10.1017/S1041610210000906)
-[^darke2017]: [Darke S, Duflou J. Characteristics, circumstances and pathology of sudden or unnatural deaths of cases with evidence of pathological hoarding. J Forensic Leg Med 2017;45:36–40.](https://sciwheel.com/fulltext/doi/10.1016/j.jflm.2016.11.004)
+[^darke2017]: [[2017_Darke_Duflou_JForensicLefMed_Pathology_sudden_death_with_evidence_of_hoarding|Darke S, Duflou J. Characteristics, circumstances and pathology of sudden or unnatural deaths of cases with evidence of pathological hoarding. J Forensic Leg Med 2017;45:36–40.]]
 [^ayers2013]: [[2014_Ayers_Ly_Howard_Mayes_Proter_Iqbal_IntJGeriPsych_Hoarding_Severity_Predicts_Disability|Ayers CR, Ly P, Howard I, Mayes T, Porter B, Iqbal Y. Hoarding severity predicts functional disability in late-life hoarding disorder patients. Int J Geriatr Psychiatry 2014;29(7):741–6.]]
 [^tolin2010]: [Tolin DF, Fitch KE, Frost RO, Steketee G. Family informants’ perceptions of insight in compulsive hoarding. Cognit Ther Res 2010;34(1):69–81.](http://link.springer.com/10.1007/s10608-008-9217-7)
 [^franzini2008]: [[2008_Franzini_Dyer_JAmGeriatrSoc_Healthcare_costs_of_vulnerable_elderly_people|Franzini L, Dyer CB. Healthcare costs and utilization of vulnerable elderly people reported to Adult Protective Services for self-neglect. J Am Geriatr Soc 2008;56(4):667–76.]]
-[^wilbram2008]: [Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.](https://sciwheel.com/fulltext/doi/10.1348/014466507X240740)
+[^wilbram2008]: [[2008_Wilbram_Kellet_Beail_BJClinPsych_Compulsive_hoarding_Partner_Carer_Perspectives|Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.]]
 [^hall2021]: [Illness, Healing, and Other Terms That Can Be Confusing, from *sciencebasemedicine.org*](https://sciencebasedmedicine.org/illness-healing-and-other-terms-that-can-be-confusing/)
 [^loeser2000]: [Loeser JD. Pain and suffering. Clin J Pain 2000;16(2 Suppl):S2-6.](https://sciwheel.com/fulltext/doi/10.1097/00002508-200006001-00002)
 [^shaw1996]:[[1996_Shaw_Shah_IntPsychogeriatr_Squalor_Syndrom_and_psychogeriatric_admissions|Shaw T, Shah A. Squalor syndrome and psychogeriatric admissions. Int Psychogeriatr 1996;8(4):669–74.]]

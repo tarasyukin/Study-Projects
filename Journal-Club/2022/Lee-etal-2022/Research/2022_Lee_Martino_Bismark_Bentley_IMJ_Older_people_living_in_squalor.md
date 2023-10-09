@@ -1,6 +1,8 @@
 ---
 aliases: Lee et. al. 2022
-source: ~/library.bib
+authors: lee, martino, bismark, bentley
+year-pub: 2022
+tag: research, presentation
 ---
 
 # [Lee SM, Martino E, Bismark M, Bentley R. Evidence to guide ethical decision-making in the management of older people living in squalor: a narrative review. Intern Med J 2022;52(8):1304–12.](https://pubmed.ncbi.nlm.nih.gov/35762169/)
@@ -17,7 +19,10 @@ Included studies:
 Excluded studies:
 > Conference abstracts, case reports with *three or less participants*, expert opinions and review articles were excluded. The process of selection was performed by a single author (SML).
 
-%% Patients included, need to note number, exclusion criteria, how they were recruited, etc %%  
+%% 
+Patients included, need to note number, exclusion criteria, how they were recruited, etc 
+[P: search terms hoard*, diogenes, squalor, clutter, elder, older, self-neglect] 
+%%  
 
 Total studies included = 67 [N:: 67]
 
@@ -29,11 +34,16 @@ Literature was coded based on a principilism framework:
 3. Positive and Negative outcomes of intervention 
 4. Utilisation of resources by older people, impact on others, and justice
 
-%% some studies don't have an intervention, essentially what was being tested for %%
+%% 
+[I: narrative principilism examining cognition and decision-making, natural trajectory, interventions, resource use]
+%%
 
 ## Control  
 
-%% some studies may not have a clear control population %%
+%% 
+[C:: no control to the healthy elder population was identified]
+
+%%
 
 ## Outcome  
 
@@ -42,7 +52,7 @@ Key assertions based on principilism.
     - There is a preponderance of executive dysfunction, not always rising to level of dementia [^ayers2016] [^ayers2013]
     - There is an associated with alcohol abuse/misuse [^gleason2015] - other substances not discussed
 1. Natural History 
-    - there is a mortality risk associated with squalor, this has not been robustly quantified, one study suggests ~ 16 years of life lost 
+    - there is a mortality risk associated with squalor, this has not been robustly quantified, one study suggests ~ 16 years of life lost[^darke2017]
     - there is a higher risk of falls, elder abuse [^p1], and institutionalisation [^p2] 
 1. Intervention 
     - CBT alone has minimal benefit, CBT with in-home support shows some improvement  
@@ -52,20 +62,27 @@ Key assertions based on principilism.
     - Fire safety education may have modest benefit  
     - Neutering of cats has shown a reduction in animal numbers after 12 months  
 1. Resource Utilisation 
-    - Squalid patients typically have longer hospitalisations and discharged to supported accommodations  
+    - Squalid patients typically have longer hospitalisations and discharged to supported accommodations[^shaw1996]  
     - Family and caregivers experience negative emotions, and family dysfunctions  (it is not stated if this is to a higher degree)  
     - Caregivers and volunteers require additional support as patients can be paranoid and demanding  
 
-%% what was the raw results of the study %%
+%% 
+[O:: higher rate of executive dysfunction and alcohol misuse]
+[O:: higher mortality risk, falls, elder abuse]
+[O:: minimal benefit from pyschiatric interventions, some harm-minimisation from cleaning and animal reproduction control]
+[O:: longer hospitalisation, and negative emotional/social strain from family and carers]
+what was the raw results of the study %%
 
 ## Conclusion  
 
 ### Cognition in the Elderly living in Squalor 
 
 The authors conclude the patients found to be living in squalor should be cautiously approached to their decision making capacity as their evidence suggests that such patients have:
-1. Greater preponderence of executive dysfunction, however *not* meeting criteria for dementia  
+1. Greater preponderence of executive dysfunction, however *not* meeting criteria for dementia[^ayers2016]  
 2. Potentially have poor insight into the impact of their behaviours on their health and safety[^tolin2010], this study however is an interview series of patient families, which are an important source but does not provide convincing evidence for such patients lacking insight
 3. That [[2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor#^q-autonomy|"...autonomous decision-making capacity should be determined rather than assumed"]] (this quote being taken from the abstract).
+
+[^ayers2016]:[[2016_Ayers_Dozier_Wetherell_Twamley_Scheihser_AmJGeriatr_Exectutive_Function_Hoarding_Disorder|Ayers CR, Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Executive Functioning in Participants Over Age of 50 with Hoarding Disorder. Am J Geriatr Psychiatry 2016;24(5):342–9.]]
 
 ### Intervention is needed to reduce morbidity and mortality, and this may need to occur against the wishes of the older adult  
 
@@ -80,7 +97,7 @@ The most critical evidence (I feel) of harm associated with hoarding is a case s
 > - Signs of hypothermia were present in 14.8%, and Type II diabetes in 21.3%.
 > - Medications for heart disease (5.4%) or diabetes (7.1%) were rare.
 
-In this case series there is an apparent signal, suggesting a massive contribution from isolation and neglect of healthcare. 
+In this case series there is an apparent signal, suggesting a contribution from isolation and neglect of healthcare. The expectation would be that more than 5 and 7% percent of older people with medical commorbidities would be on some form of intervention, but that data isn't presented here. 
 
 Another study demonstrates an association of the severity of hoarding with functional disability [^ayers2013]
 
@@ -88,7 +105,7 @@ Another study demonstrates an association of the severity of hoarding with funct
 
 The authors present that case that such squalid patients have broad difficulties in interpersonal interaction with their carers. With carers and family finding it difficult to understand and or cope with their charges/loved-ones' behaviour. 
 
-Such behaviours can refusal of care and support, and paranoia. Lee et. al. also suggest an ethical quandry experienced by care workes in such situations:
+Such behaviours can be refusal of care and support, and paranoia. *Lee et. al. (2022)* also suggest an ethical quandry experienced by care workes in such situations:
 
 > [!Lee et. al. 2022] 
 > "Qualitative studies involving case workers revealed that they were frequently ethically conflicted when trying to initiate change..."
@@ -97,7 +114,7 @@ The finanacial healthcare burden of such patients has only a a single study pres
 
 This study found no significant difference in healthcare costs of such patients compared to age-matched controls in the year following referral and evaluation. This appears to represent to healthcare cost for *that year*. However this data is of limited value to the Australian setting given its origin in Texas in the years before the *Affordable Health Act* - just saying, not sure if that is even significant, but sure is fun to point out.
 
-Of interest to me is the study by *Wilbram et. al. (2008)* which is series of ten interviews of primary carers for a hoarding family member. This narrative interview series presents a number of superodinate themes:
+Of interest to me is the study by *Wilbram et. al. (2008)* which is a series of ten interviews of primary carers for a hoarding family member. This narrative interview series presents a number of superordinate themes:
 
 > [!Wilbram et. al. 2008]
 > - loss of normal family life
@@ -106,9 +123,7 @@ Of interest to me is the study by *Wilbram et. al. (2008)* which is series of te
 > - impact on relationships
 > - marginalization [^wilbram2008] 
 
-When we don't have - or can't have - robust data to support our conclusion, all we have is a narrative understanding of the human impact that this "disorder" presents to the patient and their family. 
-
-Even we don't find that these patients have a significant healthcare cost. These series of inteviews demonstrate not just disease but *suffering* [^hall2021][^loeser2000], and ultimately it is suffering that we are trained to treat. 
+When we don't have - or can't have - robust data to support our conclusion, all we have is a narrative understanding of the human impact that this "disorder" presents to the patient and their family. Even we don't find that these patients have a significant healthcare cost. These series of inteviews demonstrate not just disease but *suffering* [^hall2021][^loeser2000], and ultimately it is suffering that we are trained to treat. 
 
 %% what was the conclusion the researchers had come to at the end %%
 
@@ -124,6 +139,8 @@ From the opening intro and methodology there seems to be a lack of analysis of t
 > [!Lee et. al. 2022]
 > A crucial implication for clinical practice is, in seeking to support the principle of autonomy, the cognitive capacity of older people living in severe domestic squalor who have frontal executive dysfunction needs to be carefully considered. This understanding is critical given that those who decline to cooperate with assessments may be even more impaired. ^q-autonomy
 
+We always need more data, but before we can collect it we should also agree on some common terminology. *Diogenes* and *Squalor* syndrome seem to be readily used by psychiatrist and psychogeriatricians, there are relatively few studies here coming from the general medicine or geriatric medicine folds. 
+
 ***
 
 [^sowdon2012]: Snowdon J, Halliday G, Banerjee S. *Severe Domestic Squalor* . Cambridge: Cambridge University Press; 2012.  
@@ -136,10 +153,32 @@ From the opening intro and methodology there seems to be a lack of analysis of t
 [^arluke2017]: [Arluke A, Patronek G, Lockwood R, Cardona A. Animal Hoarding. In: Maher J, Pierpoint H, Beirne P, editors. The palgrave international handbook of animal abuse studies. London: Palgrave Macmillan UK; 2017. p. 107–29.](DOI: 10.1057/978-1-137-43183-7_6)
 [^clarke1975]: [Clark AN, Mankikar GD, Gray I. Diogenes syndrome. A clinical study of gross neglect in old age. Lancet 1975;1(7903):366–8.](DOI: 10.1016/s0140-6736(75)91280-5)
 [^snowdon2011]: [Snowdon J, Halliday G. A study of severe domestic squalor: 173 cases referred to an old age psychiatry service. Int Psychogeriatr 2011;23(2):308–14.](https://sciwheel.com/fulltext/doi/10.1017/S1041610210000906)
-[^darke2017]: [Darke S, Duflou J. Characteristics, circumstances and pathology of sudden or unnatural deaths of cases with evidence of pathological hoarding. J Forensic Leg Med 2017;45:36–40.](https://sciwheel.com/fulltext/doi/10.1016/j.jflm.2016.11.004)
-[^ayers2013]: [Ayers CR, Ly P, Howard I, Mayes T, Porter B, Iqbal Y. Hoarding severity predicts functional disability in late-life hoarding disorder patients. Int J Geriatr Psychiatry 2014;29(7):741–6.](https://sciwheel.com/fulltext/doi/10.1002/gps.4057)
+[^darke2017]: [[2017_Darke_Duflou_JForensicLefMed_Pathology_sudden_death_with_evidence_of_hoarding|Darke S, Duflou J. Characteristics, circumstances and pathology of sudden or unnatural deaths of cases with evidence of pathological hoarding. J Forensic Leg Med 2017;45:36–40.]]
+[^ayers2013]: [[2014_Ayers_Ly_Howard_Mayes_Proter_Iqbal_IntJGeriPsych_Hoarding_Severity_Predicts_Disability|Ayers CR, Ly P, Howard I, Mayes T, Porter B, Iqbal Y. Hoarding severity predicts functional disability in late-life hoarding disorder patients. Int J Geriatr Psychiatry 2014;29(7):741–6.]]
 [^tolin2010]: [Tolin DF, Fitch KE, Frost RO, Steketee G. Family informants’ perceptions of insight in compulsive hoarding. Cognit Ther Res 2010;34(1):69–81.](http://link.springer.com/10.1007/s10608-008-9217-7)
-[^franzini2008]: [Franzini L, Dyer CB. Healthcare costs and utilization of vulnerable elderly people reported to Adult Protective Services for self-neglect. J Am Geriatr Soc 2008;56(4):667–76.](https://sciwheel.com/fulltext/doi/10.1111/j.1532-5415.2007.01629.x)
-[^wilbram2008]: [Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.](https://sciwheel.com/fulltext/doi/10.1348/014466507X240740)
+[^franzini2008]: [[2008_Franzini_Dyer_JAmGeriatrSoc_Healthcare_costs_of_vulnerable_elderly_people|Franzini L, Dyer CB. Healthcare costs and utilization of vulnerable elderly people reported to Adult Protective Services for self-neglect. J Am Geriatr Soc 2008;56(4):667–76.]]
+[^wilbram2008]: [[2008_Wilbram_Kellet_Beail_BJClinPsych_Compulsive_hoarding_Partner_Carer_Perspectives|Wilbram M, Kellett S, Beail N. Compulsive hoarding: a qualitative investigation of partner and carer perspectives. Br J Clin Psychol 2008;47(Pt 1):59–73.]]
 [^hall2021]: [Illness, Healing, and Other Terms That Can Be Confusing, from *sciencebasemedicine.org*](https://sciencebasedmedicine.org/illness-healing-and-other-terms-that-can-be-confusing/)
 [^loeser2000]: [Loeser JD. Pain and suffering. Clin J Pain 2000;16(2 Suppl):S2-6.](https://sciwheel.com/fulltext/doi/10.1097/00002508-200006001-00002)
+[^shaw1996]:[[1996_Shaw_Shah_IntPsychogeriatr_Squalor_Syndrom_and_psychogeriatric_admissions|Shaw T, Shah A. Squalor syndrome and psychogeriatric admissions. Int Psychogeriatr 1996;8(4):669–74.]]
+
+****
+
+```
+@article{lee_2022,
+title = {Evidence to guide ethical decision-making in the management of older people living in squalor: a narrative review.},
+author = {Lee, Sook Meng and Martino, Erika and Bismark, Marie and Bentley, Rebecca},
+pages = {1304-1312},
+url = {http://dx.doi.org/10.1111/imj.15862},
+year = {2022},
+month = {aug},
+urldate = {2022-09-12},
+journal = {Internal Medicine Journal},
+volume = {52},
+number = {8},
+doi = {10.1111/imj.15862},
+pmid = {35762169},
+keywords = {geriatrics},
+abstract = {Older people living in squalor present healthcare providers with a set of complex issues because squalor occurs alongside a variety of medical and psychiatric conditions, and older people living in squalor frequently decline intervention. To synthesise empirical evidence on squalor to inform ethical decision-making in the management of squalor using the bioethical framework of principlism. A systematic literature search was conducted using Medline, Embase, {PsycINFO} and {CINAHL} databases for empirical research on squalor in older people. Given the limited evidence base to date, an interpretive approach to synthesis was used. Sixty-seven articles that met the inclusion criteria were included in the review. Our synthesis of the research evidence indicates that: (i) older people living in squalor have a high prevalence of frontal executive dysfunction, medical comorbidities and premature deaths; (ii) interventions are complex and require interagency involvement, with further evaluations needed to determine the effectiveness and potential harm of interventions; and (iii) older people living in squalor utilise more medical and social resources, and may negatively impact others around them. These results suggest that autonomous decision-making capacity should be determined rather than assumed. The harm associated with squalid living for the older person, and for others around them, means a non-interventional approach is likely to contravene the principles of non-maleficence, beneficence and justice. Adequate assessment of decision-making capacity is of particular importance. To be ethical, any intervention undertaken must balance benefits, harms, resource utilisation and impact on others. \copyright 2022 The Authors. Internal Medicine Journal published by John Wiley \& Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.}
+}
+```

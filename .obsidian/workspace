@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
-            "mode": "preview",
+            "file": "Journal-Club/2022/Lee-etal-2022/Presentation.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b7f774010f7b718",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
+                "file": "Journal-Club/2022/Lee-etal-2022/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md",
+                "file": "Journal-Club/2022/Lee-etal-2022/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal-Club/2022/Lee-etal-2022/Research/Ausralian-Beareau-Satistics-2015-Older-People.md"
+                "file": "Journal-Club/2022/Lee-etal-2022/Presentation.md"
               }
             }
           }
@@ -130,7 +131,15 @@
   },
   "active": "abad5a4c8d453f61",
   "lastOpenFiles": [
+    "Journal-Club/2022/Lee-etal-2022/Research/2008_Franzini_Dyer_JAmGeriatrSoc_Healthcare_costs_of_vulnerable_elderly_people.md",
+    "Journal-Club/2022/Lee-etal-2022/Presentation.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2017_Darke_Duflou_JForensicLefMed_Pathology_sudden_death_with_evidence_of_hoarding.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/1996_Shaw_Shah_IntPsychogeriatr_Squalor_Syndrom_and_psychogeriatric_admissions.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2011_Snowdon_Halliday_IntPsychogeri_Severe_Domestic_Squalor_Cases.md",
     "Journal-Club/2022/Lee-etal-2022/Research/2022_Lee_Martino_Bismark_Bentley_IMJ_Older_people_living_in_squalor.md",
-    "Journal-Club/2022/Lee-etal-2022/Research/2018_Buss_Westlund_StanEnPhil_Personal_Autonomy.md"
+    "Journal-Club/2022/Lee-etal-2022/Research/2018_Australian_Beareau_Satistics_Summary_Findings_Older_People.md",
+    "Journal-Club/2022/Lee-etal-2022/Research-Summary.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2008_Wilbram_Kellet_Beail_BJClinPsych_Compulsive_hoarding_Partner_Carer_Perspectives.md",
+    "Journal-Club/2022/Lee-etal-2022/Research/2016_Ayers_Dozier_Wetherell_Twamley_Scheihser_AmJGeriatr_Exectutive_Function_Hoarding_Disorder.md"
   ]
 }

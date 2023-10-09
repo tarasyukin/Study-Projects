@@ -1,12 +1,12 @@
 ---
 aliases:
 source:
-authors:
-year-pub:
-tag:
+authors: ayers, dozier, wetherell, twamley, scheihser
+year-pub: 2016
+tag: research
 ---
 
-# Research Template 
+# [Ayers CR, Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Executive Functioning in Participants Over Age of 50 with Hoarding Disorder. Am J Geriatr Psychiatry 2016;24(5):342–9.](https://www.ajgponline.org/article/S1064-7481(15)00274-2/fulltext)
 
 
 ## Patients

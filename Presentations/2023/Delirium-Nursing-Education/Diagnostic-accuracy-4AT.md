@@ -1,0 +1,1 @@
+Tieges Z, Maclullich AMJ, Anand A, et al. Diagnostic accuracy of the 4AT for delirium detection in older adults: systematic review and meta-analysis. _Age Ageing_. 2021;50(3):733-743. doi:10.1093/ageing/afaa224 ^ref

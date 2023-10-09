@@ -1,0 +1,1 @@
+Wei LA, Fearing MA, Sternberg EJ, Inouye SK. The Confusion Assessment Method: a systematic review of current usage. _J Am Geriatr Soc_. 2008;56(5):823-830. doi:10.1111/j.1532-5415.2008.01674.x ^ref

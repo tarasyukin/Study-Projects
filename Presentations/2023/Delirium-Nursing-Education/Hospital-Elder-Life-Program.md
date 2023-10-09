@@ -1,0 +1,1 @@
+Hshieh TT, Yang T, Gartaganis SL, Yue J, Inouye SK. Hospital Elder Life Program: Systematic Review and Meta-analysis of Effectiveness. _Am J Geriatr Psychiatry_. 2018;26(10):1015-1033. doi:10.1016/j.jagp.2018.06.007 ^ref

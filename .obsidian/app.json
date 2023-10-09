@@ -1,4 +1,5 @@
 {
+
   "livePreview": false,
   "pdfExportSettings": {
     "pageSize": "A5",
@@ -6,4 +7,5 @@
     "margin": "0",
     "downscalePercent": 100
   }
+
 }
